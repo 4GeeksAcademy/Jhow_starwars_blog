@@ -29,7 +29,7 @@ module.exports = merge(common, {
           directory: path.resolve(__dirname, "dist"),
         },
         client: {
-          webSocketURL: publicUrl
+          webSocketURL: "https://potential-space-goggles-r4r7qrjrv54gfj7p-3000.app.github.dev/"
         },
     },
     plugins: []
